@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334027940142",
+    "project_id": "ecommerce-b590f",
+    "storage_bucket": "ecommerce-b590f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334027940142:android:f4bd78c5767052fb371abf",
+        "android_client_info": {
+          "package_name": "com.example.rezaqi_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334027940142-f6ge0dnobkt81g061f11mbpdhk3b92a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5eafKBCWmRMI4kVG-Hackb1q3LSxBI3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334027940142-f6ge0dnobkt81g061f11mbpdhk3b92a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
